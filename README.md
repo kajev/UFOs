@@ -1,6 +1,6 @@
 # UFOs
 Utilizing Javascript and Bootstrap
-**(NOTE I could not get the server up and running in time so I will not be able to provide pictures but I will try my best for the analysis regardless, will update in the future)**
+
 ## Learning Goals
 -Explain the strengths and weaknesses of JavaScript "standard" and JavaScript version ES6+.
 
@@ -17,6 +17,7 @@ Utilizing Javascript and Bootstrap
 ## Overview of Project: 
 Create a web application to display information on UFO sightings 
 ## Results: 
+![alt text](https://github.com/kajev/UFOs/blob/main/static/images/Image_1.png)
 The web page shows filters various results. Tables update in real time and don't need refreshing.
 Filter results can be narrowed down to date, city and shape.
 ## Summary: 
@@ -24,4 +25,4 @@ The webpage allows users to filter through multiple criteria and instantly shows
 ### Drawbacks: 
 The filter method is case sensitive and needs a better search algorithm. Should add a calendar UI so users can click on it to accurately get the dates they want.
 ### Future Changes: 
-Remove case-sensitivity in the textboxes. Add drop down menus
+Remove case-sensitivity in the textboxes. Add drop down menus. Fix the color schematic
